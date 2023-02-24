@@ -34,6 +34,19 @@ body {
 }
 
 
+
+
+/* header */
+
+#topContactInfo {
+    background-color: var(--btBlue);
+    color: var(--whiteGray);
+}
+
+#topContactInfo > a {
+    color :var(--whiteGray);
+}
+
 /* footer */
 footer {
     background-color: var(--btBlue);
