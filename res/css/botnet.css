@@ -41,7 +41,8 @@ footer {
 
 .ft-title-bottom-border {
     background-color: var(--btRed);
-    height: 2px;
+    height: 3px;
+    width: 30px;
 
 }
 
