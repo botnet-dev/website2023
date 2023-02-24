@@ -64,6 +64,10 @@ footer {
     font-weight: 200;
 }
 
+.office-loc {
+    font-weight: 500;
+}
+
 .ft-icon {
     color : var(--btRed);
     font-weight: 600;
