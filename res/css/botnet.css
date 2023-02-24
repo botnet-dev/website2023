@@ -58,3 +58,7 @@ footer {
 .ft-link {
     color : var(--whiteGray)
 }
+
+.location-list {
+    color : white;
+}
