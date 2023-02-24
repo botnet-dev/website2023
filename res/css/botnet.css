@@ -35,6 +35,12 @@ footer {
 }
 
 .ft-title {
+    border-bottom: ;
     font-weight: 600;
     color: var(--btRed);
 }
+
+.copyleft {
+    color: var(--whiteGray);
+}
+
