@@ -9,7 +9,8 @@
     --btBlue : #0b0c26;
     --btRed : #db1d34;
     --btGray : #999999;
-    
+    --whiteGray : #d0d0d0;
+
 }
 
 /* colors */
@@ -34,5 +35,6 @@ footer {
 }
 
 .ft-title {
+    font-weight: 600;
     color: var(--btRed);
 }
