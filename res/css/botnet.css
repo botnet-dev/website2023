@@ -40,7 +40,7 @@ body {
 
 #topContactInfo {
     background-color: var(--btBlue);
-    color: var(--whiteGray);
+    color: var(--btRed);
 }
 
 #topContactInfo > i {
