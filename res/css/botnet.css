@@ -4,6 +4,18 @@
     2023
 */
 
+
+/* 
+
+    Colors We Need 
+
+    dark-blue : #0b0c26;
+    red : #db1d34;
+    gray : #999999;
+    whiter-gray : #d0d0d0;
+
+*/
+
 /* global variables */
 :root {
     --btBlue : #0b0c26;
@@ -13,13 +25,6 @@
 
 }
 
-/* colors */
-/*
-    dark-blue : #0b0c26;
-    red : #db1d34;
-    gray : #999999;
-    
-*/
 
 
 
