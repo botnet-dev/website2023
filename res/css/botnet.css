@@ -39,7 +39,11 @@ footer {
     color: var(--whiteGray);
 }
 
+.ft-title-bottom-border {
+    background-color: var(--btRed);
+    height: 3px;
 
+}
 
 .copyleft {
     color: var(--whiteGray);
