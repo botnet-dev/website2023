@@ -59,6 +59,12 @@ footer {
     color : var(--whiteGray)
 }
 
-.location-list {
+.locations-list {
     color : white;
+    font-weight: 200;
+}
+
+.ft-icon {
+    color : var(--btRed);
+    font-weight: 600;
 }
