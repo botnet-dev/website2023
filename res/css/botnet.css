@@ -4,6 +4,11 @@
     2023
 */
 
+/* global variables */
+:root {
+    --btBlue : #0b0c26;
+    --btRed : #db1d34;
+}
 
 /* colors */
 /*
@@ -13,7 +18,19 @@
     
 */
 
+
+
 /* general styles */
 body {
     font-family: 'Poppins', sans-serif;
+}
+
+
+/* footer */
+footer {
+    background-color: var(--btBlue);
+}
+
+.ft-title {
+    color: var(--btRed);
 }
