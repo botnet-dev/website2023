@@ -68,6 +68,19 @@ footer {
     background-color: var(--btBlue);
 }
 
+#footer-logo {
+    height: 50px;
+    width: auto;
+}
+
+.ft-social-icons {
+    color : var(--btRed);
+}
+
+.ft-social-icons:hover {
+    color : var(--whiteGray);
+}
+
 .ft-title {
     font-weight: 600;
     color: var(--whiteGray);
