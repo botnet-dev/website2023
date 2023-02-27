@@ -96,6 +96,8 @@ footer {
 
 .copyleft {
     color: var(--whiteGray);
+    color: var(--btRed);
+    opacity: 75%;
 }
 
 .ft-link {
