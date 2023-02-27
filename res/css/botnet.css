@@ -49,13 +49,19 @@ body {
 
 /* nav */
 .top-nav-logo {
-    height: 50px;
+    height: 30px;
     width: auto;
 }
 
-.top-link :hover {
-    border-radius: 2px solid var(--btRed);
+.top-link a{
+    color: var(--btBlue);
 }
+
+.top-link :hover {
+    color: #db1d34;
+    
+}
+
 
 /* footer */
 footer {
