@@ -53,6 +53,10 @@ body {
     width: auto;
 }
 
+.top-link :hover {
+    border-radius: 2px solid var(--btRed);
+}
+
 /* footer */
 footer {
     background-color: var(--btBlue);
