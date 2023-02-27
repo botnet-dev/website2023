@@ -39,6 +39,7 @@ body {
 /* header */
 
 #topContactInfo {
+    font-size : small;
     background-color: var(--btBlue);
     color: var(--btRed);
 }
