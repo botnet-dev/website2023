@@ -74,6 +74,11 @@ footer {
     width: auto;
 }
 
+.ft-about {
+    color: #999999;
+    font-size: medium;
+}
+
 .ft-social-icons {
     color : var(--btRed);
 }
@@ -91,7 +96,6 @@ footer {
     background-color: var(--btRed);
     height: 3px;
     width: 30px;
-
 }
 
 .copyleft {
