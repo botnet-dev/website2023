@@ -108,6 +108,11 @@ footer {
     color : var(--whiteGray)
 }
 
+.ft-link > .link-sym {
+    text-decoration: none;
+    color:#db1d34
+}
+
 .locations-list {
     color : white;
     font-weight: 200;
