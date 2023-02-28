@@ -105,12 +105,12 @@ footer {
 }
 
 .ft-link {
-    color : var(--whiteGray)
+    color : var(--whiteGray);
+    text-decoration: none;
 }
 
-.ft-link > .link-sym {
-    text-decoration: none;
-    color:#db1d34
+.ft-link > .link-sym :hover {
+    color:#db1d34;
 }
 
 .locations-list {
