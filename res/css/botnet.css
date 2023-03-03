@@ -41,7 +41,7 @@ body {
 #topContactInfo {
     font-size : small;
     background-color: var(--btBlue);
-    background-image: linear-gradient(to right,var(--btRed) ,var(--btBlue) );
+    background-image: linear-gradient(to right,var(--btRed) ,var(--btBlue));
     color: var(--whiteGray);
 }
 
