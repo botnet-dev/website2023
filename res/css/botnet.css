@@ -73,6 +73,9 @@ body {
     background-image: linear-gradient(to right, var(--btRed), var(--btBlue));
 }
 
+.car-cap {
+    margin-bottom :300px;
+}
 /* footer */
 footer {
     background-color: var(--btBlue);
