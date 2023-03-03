@@ -67,6 +67,11 @@ body {
     
 }
 
+/* carousel */
+.main-carousel {
+    height: 100vh;
+    background-image: linear-gradient(to right, var(--btBlue), var(--btRed));
+}
 
 /* footer */
 footer {
