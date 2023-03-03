@@ -79,6 +79,18 @@ body {
 .car-cap {
     margin-bottom :300px;
 }
+
+
+/* main content */
+.section-head {
+    font-size: small;
+    color: var(--btRed);
+}
+
+.section-title {
+    font-weight: 600;
+}
+
 /* footer */
 footer {
     background-color: var(--btBlue);
