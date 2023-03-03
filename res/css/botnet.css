@@ -41,13 +41,17 @@ body {
 #topContactInfo {
     font-size : small;
     background-color: var(--btBlue);
-    color: var(--btRed);
+    background-image: linear-gradient(to right, var(--btBlue), var(--btRed));
+    color: var(--whiteGray);
 }
 
-#topContactInfo > i {
+#topContactInfo > i , a {
     color :var(--whiteGray);
 }
 
+#topContactInfo > i , a :hover {
+    color: var(--btBlue);
+}
 /* nav */
 .top-nav-logo {
     height: 30px;
