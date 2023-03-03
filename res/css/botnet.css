@@ -73,6 +73,9 @@ body {
     background-image: linear-gradient(to right, var(--btRed), var(--btBlue));
 }
 
+.carousel-icon {
+    font-size: 3rem;
+}
 .car-cap {
     margin-bottom :300px;
 }
