@@ -128,6 +128,10 @@ footer {
     color:#db1d34;
 }
 
+.ft-link :hover {
+    color: var(--btRed);
+}
+
 .locations-list {
     color : white;
     font-weight: 200;
