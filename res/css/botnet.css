@@ -140,7 +140,7 @@ footer {
     color:#db1d34;
 }
 
-.ft-link :hover {
+.ft-link:hover {
     color: var(--btRed);
 }
 
