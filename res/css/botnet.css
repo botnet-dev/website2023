@@ -142,6 +142,7 @@ footer {
 
 .ft-link:hover {
     color: var(--btRed);
+    text-decoration: none;
 }
 
 .locations-list {
