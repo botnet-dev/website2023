@@ -34,7 +34,18 @@ body {
 }
 
 
+/* topCarosel */
 
+.arrowBegin {
+    color : var(--whiteGray);
+    font-size: large;
+}
+
+.arrowBegin :hover {
+    color: var(--btRed);
+    font-weight: 500;
+    font-size: large;
+}
 
 /* header */
 
