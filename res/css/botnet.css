@@ -51,6 +51,9 @@ body {
     height: 30px;
 }
 
+.botnet-index:hover {
+    opacity: 25%;
+}
 /* header */
 
 #topContactInfo {

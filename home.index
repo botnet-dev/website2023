@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botnet Group - Technology For Innovation - Home</title>
+
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+
+    <meta name="keywords" content="Cyber Security,System Integration,Fire Alarm,Network Design,CCTV Installation, Software Development" />
+    <meta name="author" content="navilindo/botnet group">
+
+    <!-- Boot Starp CSS CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+            
+    <!-- Bootstrap icons CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">     
+    
+    <!-- FontAwesome CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
+
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="res/css/botnet.css">
+
+    <!-- Google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+    <header>
+        <div class="pt-3 pb-3" id="topContactInfo">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-5 col-sm-12 d-sm-block">
+                        <i class="bi bi-clock topinfo-icon"></i>
+                        &nbsp;
+                        <b>Open Hours :</b> Mon - Sat  |  9.00 - 18.00
+                    </div>
+                    
+                    <div class="col-md-7">
+                        <div class="text-md-right"> 
+                            <span class="">
+                                <i class="bi bi-envelope topinfo-icon"></i> &nbsp;
+                                <a href="mailto:info@botnetgroup.co.tz"> info@botnetgroup.co.tz </a> &nbsp; &nbsp; | &nbsp; &nbsp;
+                            </span>
+    
+                            <span class="">
+                                <i class="bi bi-telephone topinfo-icon"></i> &nbsp;
+                                <a href="tel:+255688266829"> +255 (0) 688 266 829</a> &nbsp; &nbsp; | &nbsp; &nbsp;
+                            </span>
+                            
+                            <span class="">
+                                <a href="https://facebook.com/botnetgroup">
+                                    <i class="bi bi-facebook"></i>
+                                </a>
+                                &nbsp;
+                                <a href="https://twitter.com/botnetgroup">
+                                    <i class="bi bi-twitter"></i>
+                                </a>
+                                &nbsp;
+                                <a href="https://linkedin.com/botnetgroup">  
+                                    <i class="bi bi-linkedin"></i>
+                                </a>
+                            </span>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+    </header>
+
+<!-- <hr class="pt-1 pb-n2"> -->
+    
+    <nav>
+        <!--Navbar-->
+        <nav class="navbar navbar-expand-lg container">
+            <!-- Navbar brand -->
+            <a class="navbar-brand" href="#">
+                <img src="./res/images/logos/logo-red.png" alt="botnetgroup" class="top-nav-logo">
+            </a>
+            <!-- Collapse button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Collapsible content -->
+            <div class="collapse navbar-collapse " id="basicExampleNav">
+                <!-- Links -->
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active top-link">
+                        <a class="nav-link" href="#">Home
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item top-link">
+                       <a class="nav-link" href="#">Computers</a>
+                    </li>
+                    <li class="nav-item top-link">
+                       <a class="nav-link" href="#">About</a>
+                    </li>
+                    <!-- Dropdown -->
+                    <li class="nav-item dropdown top-link">
+                       <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                           aria-haspopup="true" aria-expanded="false">Dropdown</a>
+                       <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                           <a class="dropdown-item" href="#">Action</a>
+                           <a class="dropdown-item" href="#">Another action</a>
+                           <a class="dropdown-item" href="#">Something else here</a>
+                       </div>
+                   </li>
+               </ul>
+               <!-- Links -->
+               <!-- <form class="form-inline">
+                   <div class="md-form my-0">
+                       <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                   </div>
+               </form> -->
+           </div>
+           <!-- Collapsible content -->
+        </nav>
+        <!--/.Navbar-->
+
+    </nav>
+
+    
+    <section>
+        <div class="container">
+            <div class="row pt-5 pb-5">
+                <div class="col-md-7 pb-sm-3">
+                    <div class="title">
+                        <h5 class="section-head">
+                            ABOUT
+                        </h5>
+                        <h2 class="section-title">
+                            Your Partner In Information Technology
+                        </h2>
+                    </div>
+                    <div class="details">
+                        <p>
+                            BOTNET GROUP (T) LTD - is not just a groundbreaking team of industry leaders - we are 
+                            your partners in Innovation. Our skilled experts are obsessed with turning great ideas 
+                            into reality, and getting them to work and market fast. 
+                            
+                            <br>
+                            <br>
+
+                            Built on a foundation of
+                             strategy, design ingenuity and unmatched ICT expertise, BOTNET GROUP (T) LTD instills
+                              conﬁdence in innovation.
+                              
+                            <br>
+                            <br>
+                              Technology For Innovators
+                              <br>
+                              At BOTNET GROUP (T) LTD you will ﬁnd qualiﬁed, enthusiastic, and highly motivated Systems 
+                            Managers, Engineers, Developers and Consultants with experience needed to make your idea come to life.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <img src="" alt="">
+                </div>
+            </div>
+            
+        </div>
+    </section>
+    
+    <footer class="pb-5 pt-5">
+        <div class="container" id="footer-info">
+            
+            <div class="pt-3 pb-3">
+                <a href="">
+                    <img src="./res/images/logos/logo-white.png" alt="white botnet" class="img-fluid" id="footer-logo">
+                </a>
+            </div>
+            <hr>
+        
+            <div class="row">
+                <div class="col-md-5 col-sm-12">
+                    
+                    <h5 class="ft-title">
+                        About
+                    </h5>
+
+                    <div class="ft-title-bottom-border mt-3  mb-3"></div>
+                     
+                    <p class="ft-about pr-md-1">
+                        BOTNET GROUP (T) LTD isn’t just a groundbreaking team of industry 
+                        leaders - we are your partners in Innovation. Our skilled experts are obsessed with turning 
+                        great ideas into reality, and getting them to work and market fast.
+                    </p>
+
+                    <span class="">
+                        <a href="https://facebook.com/botnetgroup">
+                            <i class="bi bi-facebook ft-social-icons"></i>
+                        </a>
+                        &nbsp;
+                        <a href="https://twitter.com/botnetgroup">
+                            <i class="bi bi-twitter ft-social-icons"></i>
+                        </a>
+                        &nbsp;
+                        <a href="https://linkedin.com/botnetgroup">  
+                            <i class="bi bi-linkedin ft-social-icons"></i>
+                        </a>
+                    </span>
+
+                </div>
+                <div class="col-md-4 col-sm-12 pb-sm-3">
+                    <section>
+                        <h5 class="ft-title">
+                            Our Offices
+                        </h5>
+
+                        <div class="ft-title-bottom-border mt-3  mb-3"></div>
+                        
+                        <p class="locations-list">
+                            <i class="fa fa-map-marker ft-icon"></i>
+                            <span class="office-loc">
+                                HQ, Mtwara 
+                            </span>
+                            <br>
+                            483, Ligula Road <br> Nangwanda Stadium, Office No 371
+                            <br>
+                            <span class="physical-loc">
+                                Mtwara Municipal<br> Tanzania
+                            </span>
+                        </p>
+
+                        <br>
+
+                        <p class="locations-list">
+                            <i class="fa fa-map-marker ft-icon"></i>
+                            <span class="office-loc">
+                                Masasi branch 
+                            </span>
+                            <br>
+                            At Road ligghts (Mataa) Opposite to <br>Himo restaurant
+                            <br>
+                            <span class="physical-loc">
+                                Masasi, Mtwara <br> Tanzania
+                            </span>
+                        </p>
+
+                        <!-- <p class="locations-list">
+                            <i class="fa fa-map-marker ft-icon"></i>
+                            <span class="office-loc">
+                                Botnet Computers, Mtwara 
+                            </span>
+                            <br>
+                            Madukani, Opposite to NBC
+                            <br>
+                            <span class="physical-loc">
+                                Mtwara, Tanzania
+                            </span>
+                        </p> -->
+
+                        <br>
+
+                        <p class="locations-list">
+                            <i class="fa fa-map-marker ft-icon"></i>
+                            <span class="office-loc">
+                                Ifakara branch 
+                            </span>
+                            <br>
+                            Madukani, Opposite to NBC
+                            <br>
+                            <span class="physical-loc">
+                                Ifakara, Morogoro <br> Tanzania
+                            </span>
+                        </p>
+        
+
+                    </section>
+                </div>
+                <div class="col-md-3 col-sm-12 pb-sm-3">
+                    
+                    <section>
+                        <h5 class="ft-title">
+                            Computers
+                        </h5>
+
+                        <div class="ft-title-bottom-border mt-3  mb-3"></div>
+                        
+                        <a href="" class="ft-link pt-1 pb-1">
+                            <span class="link-sym"> > </span> Botnet Computers
+                        </a>
+                        <br>
+                        <a href="" class="ft-link pt-1 pb-1">
+                            <span class="link-sym"> > </span> Computer Maintenance
+                        </a>
+                    </section>
+                    
+                    <br>
+                    <br>
+
+                    <section>
+                        <h5 class="ft-title">
+                            Our Services
+                        </h5>
+                        
+                        <div class="ft-title-bottom-border mt-3  mb-3"></div>
+                        
+
+                        <a href="" class="ft-link pt-2 pb-2">
+                            <span class="link-sym"> > </span> CCTV Installation
+                        </a>
+                        <br>
+                        <a href="" class="ft-link pt-2 pb-2">
+                            <span class="link-sym"> > </span> Cyber Security
+                        </a>
+                        <br>
+                        <a href="" class="ft-link pt-2 pb-2">
+                            <span class="link-sym"> > </span> Electric Fences
+                        </a>
+                        <br>
+                        <a href="" class="ft-link pt-2 pb-2">
+                            <span class="link-sym"> > </span> Fire Alarm
+                        </a>
+                        <br>
+                        <a href="" class="ft-link pt-2 pb-2">
+                            <span class="link-sym"> > </span> Graphics Design
+                        </a>
+                        <br>
+                        <a href="" class="ft-link pt-2 pb-2">
+                            <span class="link-sym"> > </span> Motor Gates
+                        </a>
+                        <br>
+                        <a href="" class="ft-link pt-2 pb-2">
+                            <span class="link-sym"> > </span> Network Systems <br>&nbsp;&nbsp; Design & Installation
+                        </a>
+                        <br>
+                        <a href="" class="ft-link pt-2 pb-2">
+                            <span class="link-sym"> > </span> Systems Development <br>&nbsp;&nbsp; & Integration
+                        </a>
+                         <br>
+                        <!--<a href="" class="ft-link pt-1 pb-1">
+                            <span class="link-sym"> > </span> System Integration
+                        </a>
+                        <br> -->
+                        <a href="" class="ft-link pt-2 pb-2">
+                            <span class="link-sym"> > </span> Web Development
+                        </a>
+                        
+                    </section>
+                    
+                    
+                </div>
+            </div>
+
+        </div>
+        <!-- <hr class="pt-2 pb-2"> -->
+        
+    </footer>
+
+    <div class="btm-copyleft p-4">
+        <div class="container text-center copyleft">
+            <span class="botgrp">Botnet Group</span> &nbsp; © &nbsp; 2023
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+    <script src="./res/js/welcome.js"></script>
+    <!-- <script src="./res/js/whatsapp-widget.js"></script> -->
+
+    <script type="javascript/text">
+        
+    (function() {
+        var options = {
+            whatsapp: "&#x2B;255 657 205 562", // WhatsApp number 
+            call_to_action: "Message us", // Call to action
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+    </script>
+
+</body>
+</html>
