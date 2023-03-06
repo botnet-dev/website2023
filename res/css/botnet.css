@@ -132,6 +132,10 @@ footer {
     width: 30px;
 }
 
+.btm-copyleft {
+    background-color: var(--btRed);
+}
+
 .copyleft {
     color: var(--whiteGray);
     color: var(--btRed);
