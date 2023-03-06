@@ -47,6 +47,10 @@ body {
     font-size: large;
 }
 
+.botnet-index {
+    height: 30px;
+}
+
 /* header */
 
 #topContactInfo {
