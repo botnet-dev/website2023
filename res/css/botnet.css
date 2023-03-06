@@ -51,9 +51,6 @@ body {
     color :var(--btRed);
 }
 
-#topContactInfo > i {
-    /* color :var(--btRed); */
-}
 
 .topinfo-icon {
     color: var(--btRed);
