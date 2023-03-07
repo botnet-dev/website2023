@@ -21,7 +21,9 @@ var text = [
 ];
 
 var botLogo = '<br> <a href="home.html" class="arrowBegin pt-5">' +
+                'visit <br>' +
                 '<img src="./res/images/logos/logo-white.png" alt="botnet-logo" class="botnet-index">' +
+                '<br> website' +
             '</a>';
 
 var counter = 0;

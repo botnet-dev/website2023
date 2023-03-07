@@ -1,13 +1,13 @@
-/* 
-    Bottnet Group (T) Ltd 
+/*
+    Bottnet Group (T) Ltd
 
     2023
 */
 
 
-/* 
+/*
 
-    Colors We Need 
+    Colors We Need
 
     dark-blue : #0b0c26;
     red : #db1d34;
@@ -89,7 +89,7 @@ body {
 
 .top-link :hover {
     color: #db1d34;
-    
+
 }
 
 /* carousel */
@@ -99,23 +99,23 @@ body {
     background-image: linear-gradient(to right, var(--btRed), var(--btBlue));
 }
 
-/* .main-carousel {
+.main-carousel {
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-} */
+}
 
 
-.car-cap {
+/* .car-cap {
     margin :0;
     position: absolute;
     top: 50%;
     transform: translate(0, -50%);
-}
+} */
 
 /* .car-cap {
-    margin: 0;    
+    margin: 0;
 } */
 
 .carousel-icon {
