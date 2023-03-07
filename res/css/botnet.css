@@ -54,6 +54,14 @@ body {
 .botnet-index:hover {
     opacity: 25%;
 }
+
+.botnet-index-logo {
+    margin-bottom: 100px;
+}
+
+.home-link {
+    color: white;
+}
 /* header */
 
 #topContactInfo {
