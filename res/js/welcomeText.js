@@ -1,5 +1,5 @@
 var text = [
-    "Welcome to",
+    "Welcome to <br><br><br><br>",
 
     '<i class="bi bi-app-indicator carousel-icon"></i>' +
     '<h2>' +
@@ -20,12 +20,18 @@ var text = [
     '<p>We provide technology solutions both in software development and networking.</p>'
   
 ];
+
+var botLogo = '<br> <a href="home.html" class="arrowBegin pt-5">' +
+                '<img src="./res/images/logos/logo-white.png" alt="botnet-logo" class="botnet-index">' +
+                '<i class="bi bi-arrow-down-short"></i>' +
+            '</a>';
+
 var counter = 0;
 var elem = document.getElementById("welcomeText");
 var inst = setInterval(change, 3000);
 
 function change() {
-  elem.innerHTML = text[counter];
+  elem.innerHTML = text[counter] + botLogo;
   counter++;
   if (counter >= text.length) {
     counter = 0;
