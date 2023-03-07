@@ -16,9 +16,7 @@ var text = [
     '<h2>' +
         '<b>Technology Experts</b>' +
     '</h2>' +
-    '<p>We provide technology solutions both in software development <br> and networking.</p>',
-
-    '<br><br><br><br><br> click <i class="bi bi-arrow-down-short"></i> to visit our website'
+    '<p>We provide technology solutions both in software development <br> and networking.</p>'
   
 ];
 

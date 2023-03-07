@@ -103,21 +103,31 @@ body {
 }
 
 /* carousel */
+/*
 .main-carousel {
     position: relative;
     /* height: 100vh; */
-    background-image: linear-gradient(to right, var(--btRed), var(--btBlue));
+/*    background-image: linear-gradient(to right, var(--btRed), var(--btBlue));
 }
 
 .main-carousel {
     /* height: 100vh; */
     /* display: flex; */
-    align-items: center;
+  /*  align-items: center;
     justify-content: center;
 }
-
+*/
 .main {
     height: 100vh;
+    background-image: linear-gradient(150deg, var(--btRed), var(--btBlue));
+}
+
+.home-link {
+    color: white !important;
+}
+
+.home-link:hover {
+    text-decoration: none;
 }
 
 /* .car-cap {
