@@ -9,8 +9,8 @@ var text = [
     '<h2>' +
         '<b>We provide Security Solutions</b>' +
     '</h2>' +
-    '<p>The future belongs to those who evolve.</p>',
-  "Welcome Friend!", 
+    '<p>CCTV cameras Installation, Cyber security and Fire alarm installation.</p>',
+  "Welcome Friend!",
   "Karibu Rafiki!", 
   "!Ù…Ø±Ø­Ø¨Ø§ ØµØ¯ÙŠÙ‚Ù‰"
 ];
