@@ -99,12 +99,12 @@ body {
     background-image: linear-gradient(to right, var(--btRed), var(--btBlue));
 }
 
-.main-carousel {
+/* .main-carousel {
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-}
+} */
 
 
 .car-cap {
@@ -114,9 +114,9 @@ body {
     transform: translate(0, -50%);
 }
 
-.car-cap {
+/* .car-cap {
     margin: 0;    
-}
+} */
 
 .carousel-icon {
     font-size: 3rem;
