@@ -33,7 +33,7 @@ var elem = document.getElementById("welcomeText");
 var inst = setInterval(change, 2000);
 
 function change() {
-  elem.innerHTML = text[counter] + botLogo;
+  elem.innerHTML = text[counter];
   counter++;
   if (counter >= text.length) {
     counter = 0;
