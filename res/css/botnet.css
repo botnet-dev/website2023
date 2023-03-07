@@ -119,7 +119,7 @@ body {
 */
 .main {
     height: 100vh;
-    background-image: linear-gradient(150deg, var(--btRed), var(--btBlue));
+    background-image: linear-gradient(160deg, var(--btRed), var(--btBlue));
 }
 
 .home-link {
