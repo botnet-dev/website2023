@@ -17,7 +17,7 @@ var text = [
     '<h2>' +
         '<b>Technology Experts</b>' +
     '</h2>' +
-    '<p>The future belongs to those who evolve.</p>'
+    '<p>We provide technology solutions both in software development and networking.</p>'
   
 ];
 var counter = 0;
