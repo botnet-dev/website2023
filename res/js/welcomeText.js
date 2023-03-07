@@ -22,7 +22,7 @@ var text = [
 ];
 var counter = 0;
 var elem = document.getElementById("welcomeText");
-var inst = setInterval(change, 2000);
+var inst = setInterval(change, 3000);
 
 function change() {
   elem.innerHTML = text[counter];
