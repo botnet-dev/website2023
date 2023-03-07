@@ -23,7 +23,6 @@ var text = [
 
 var botLogo = '<br> <a href="home.html" class="arrowBegin pt-5">' +
                 '<img src="./res/images/logos/logo-white.png" alt="botnet-logo" class="botnet-index">' +
-                '<i class="bi bi-arrow-down-short"></i>' +
             '</a>';
 
 var counter = 0;
