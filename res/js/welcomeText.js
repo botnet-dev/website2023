@@ -1,4 +1,6 @@
 var text = [
+    "Welcome to",
+
     '<i class="bi bi-app-indicator carousel-icon"></i>' +
     '<h2>' +
         '<b>Technology for Innovators</b>' +
@@ -10,9 +12,13 @@ var text = [
         '<b>We provide Security Solutions</b>' +
     '</h2>' +
     '<p>CCTV cameras Installation, Cyber security and Fire alarm installation.</p>',
-  "Welcome Friend!",
-  "Karibu Rafiki!", 
-  "!Ù…Ø±Ø­Ø¨Ø§ ØµØ¯ÙŠÙ‚Ù‰"
+
+    '<i class="bi bi-boxes carousel-icon"></i>' +
+    '<h2>' +
+        '<b>Technology Experts</b>' +
+    '</h2>' +
+    '<p>The future belongs to those who evolve.</p>'
+  
 ];
 var counter = 0;
 var elem = document.getElementById("welcomeText");
