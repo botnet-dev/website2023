@@ -1,4 +1,15 @@
 var text = [
+    '<i class="bi bi-app-indicator carousel-icon"></i>' +
+    '<h2>' +
+        '<b>Technology for Innovators</b>' +
+    '</h2>' +
+    '<p>The future belongs to those who evolve.</p>',
+
+    '<i class="bi bi-shield-check carousel-icon"></i>' +
+    '<h2>' +
+        '<b>We provide Security Solutions</b>' +
+    '</h2>' +
+    '<p>The future belongs to those who evolve.</p>',
   "Welcome Friend!", 
   "Karibu Rafiki!", 
   "!Ù…Ø±Ø­Ø¨Ø§ ØµØ¯ÙŠÙ‚Ù‰"

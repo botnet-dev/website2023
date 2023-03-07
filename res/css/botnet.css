@@ -99,9 +99,14 @@ body {
     background-image: linear-gradient(to right, var(--btRed), var(--btBlue));
 }
 
-.carousel-icon {
-    font-size: 3rem;
+.main-carousel {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+
 .car-cap {
     margin :0;
     position: absolute;
@@ -109,6 +114,13 @@ body {
     transform: translate(0, -50%);
 }
 
+.car-cap {
+    margin: 0;    
+}
+
+.carousel-icon {
+    font-size: 3rem;
+}
 
 /* main content */
 .section-head {
