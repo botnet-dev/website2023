@@ -27,7 +27,7 @@ var botLogo = '<br> <a href="home.html" class="arrowBegin pt-5">' +
 
 var counter = 0;
 var elem = document.getElementById("welcomeText");
-var inst = setInterval(change, 3000);
+var inst = setInterval(change, 5000);
 
 function change() {
   elem.innerHTML = text[counter] + botLogo;
