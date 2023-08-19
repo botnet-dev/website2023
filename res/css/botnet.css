@@ -242,3 +242,7 @@ footer {
     background-color: var(--btRed);
     color : white;
 }
+
+.hww-number {
+    color : var(--btBlue);
+}
