@@ -155,6 +155,10 @@ body {
     font-weight: 600;
 }
 
+.sub-title {
+    color : var(--btRed);
+    font-weight: 600;
+}
 /* footer */
 footer {
     background-color: var(--btBlue);
@@ -229,4 +233,10 @@ footer {
 .ft-icon {
     color : var(--btRed);
     font-weight: 600;
+}
+
+/* homepage  */
+
+.how-we-work {
+    background-image : ;
 }
