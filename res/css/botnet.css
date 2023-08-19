@@ -239,4 +239,6 @@ footer {
 
 .how-we-work {
     background-image : ;
+    background-color: var(--btRed);
+    color : white;
 }
